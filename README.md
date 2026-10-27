@@ -34,4 +34,4 @@
 | [corkscrew-go](https://github.com/YouSysAdmin/corkscrew-go) | Tunnel SSH through HTTP CONNECT (plain/TLS) and SOCKS5 proxies |
 | [flat-spf](https://github.com/YouSysAdmin/flat-spf) | Flatten SPF records |
 | [echo-server](https://github.com/YouSysAdmin/echo-server) | Simple echo server |
-| [go-audit](https://github.com/YouSysAdmin/go-audit)|| auditd alternative with output to structured JSON log |
+| [go-audit](https://github.com/YouSysAdmin/go-audit) | auditd alternative with output to structured JSON log |
